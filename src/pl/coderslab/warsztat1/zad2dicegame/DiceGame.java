@@ -1,4 +1,4 @@
-package pl.coderslab.warsztat1.zad1guessgame;
+package pl.coderslab.warsztat1.zad2dicegame;
 
 public class DiceGame {
 
